@@ -35,35 +35,35 @@ This is a self-created Jira practice project built to simulate how a Project Coo
 - GitHub
 
  Screenshots
-
 ## Screenshots
 
 ### 1. Jira Setup
-![Jira Setup](01-Setup.png)
+![Jira Setup](Screenshots/01-Setup.png)
 
 ### 2. Project Board
-![Project Board](02-Project-board.png)
+![Project Board](Screenshots/02-Project-board.png)
 
 ### 3. Epics Timeline
-![Epics Timeline](03-Epics-timeline.png)
+![Epics Timeline](Screenshots/03-Epics-timeline.png)
 
 ### 4. User Stories
-![User Stories](04-User-stories.png)
+![User Stories](Screenshots/04-User-stories.png)
 
 ### 5. Subtasks Breakdown
-![Subtasks Breakdown](05-Subtask-breakdown.png)
+![Subtasks Breakdown](Screenshots/05-Subtask-breakdown.png)
 
 ### 6. Sprint Board
-![Sprint Board](06-Sprint-Board.png)
+![Sprint Board](Screenshots/06-Sprint-Board.png)
 
 ### 7. Sprint Progress
-![Sprint Progress](07-Sprint- Progress.png)
+![Sprint Progress](Screenshots/07-Sprint-%20Progress.png)
 
 ### 8. Burndown Chart
-![Burndown Chart](08-Burndown- Chart.png)
+![Burndown Chart](Screenshots/08-Burndown-%20Chart.png)
 
 ### 9. Backlog View
-![Backlog View](09-Backlog- View.png)
+![Backlog View](Screenshots/09-Backlog-%20View.png)
+
 
 Why I Built This
 I created this Jira demo project to strengthen my practical understanding of project coordination, sprint workflows, backlog handling, and Agile project tracking while preparing for entry-level Project Coordinator, PMO Analyst, and Operations roles.
